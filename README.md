@@ -27,7 +27,3 @@ Too high!
 97
 Correct! You win!Your performance Very Good!
 95
-
-#SERVER
-Server listening on___________Connected by (________, _______),_________
-
