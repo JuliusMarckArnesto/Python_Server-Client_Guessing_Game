@@ -29,13 +29,5 @@ Correct! You win!Your performance Very Good!
 95
 
 #SERVER
-Server listening on____________
-________
-Connected by (________, _______),_________
-=======
-#CLIENT 
-Connected to the server. Start guessing! Password is:__ Enter password: it6 Verified! Too low! 4 Too low! 16 Too low! 40 Too low! 53 Too low! 89 Too low! 90 Too high! 100 Too high! 98 Too high! 97 Correct! You win!Your performance Very Good! 95
+Server listening on___________Connected by (________, _______),_________
 
-#SERVER 
-Server listening on _____ Connected by (___,___),_____
->>>>>>> 34969c78ecc80918049ba1604e02414d5ec14df4
