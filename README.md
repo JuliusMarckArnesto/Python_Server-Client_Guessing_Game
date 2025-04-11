@@ -3,8 +3,8 @@ A Python Server-Client number guessing game
 
 #CLIENT
 Connected to the server. Start guessing!
-Password is:it6
-Enter password: it6
+Password is:________
+Enter password:_____
 Verified!
 Too low!
 4
@@ -28,6 +28,6 @@ Correct! You win!Your performance Very Good!
 95
 
 #SERVER
-Server listening on 127.0.0.1:7777
-it6
-Connected by ('127.0.0.1', 55085), 127.0.0.1
+Server listening on____________
+________
+Connected by (________, _______),_________
