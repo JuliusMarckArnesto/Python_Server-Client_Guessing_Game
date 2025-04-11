@@ -1,5 +1,5 @@
 import socket
-#random lirary
+#random library
 import random
 class GuessingGameClient:
     def __init__(self, host="127.0.0.1", port=7777):
@@ -34,7 +34,7 @@ class GuessingGameClient:
             
             while True:
                 guess = random_num
-                client_socket.sendall(str(guess).encode())#Why unable to encode() int()
+                client_socket.sendall(str(guess).encode())#unable to encode() int()
                 response = client_socket.recv(1024).decode()
                 print(response)
                 
